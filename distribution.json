@@ -10,9 +10,9 @@
     {
       "id": "EchoesSMP-1.20.1",
       "name": "Echoes SMP: Sounds Of Hollow",
-      "description": "Echoes SMP Running Minecraft 1.20.1 (Forge v47.4.10)",
+      "description": "Echoes SMP: Sounds Of Hollow is a Minecraft server RP and SMP!",
       "icon": "https://teamstardustbrazil.github.io/launcher-distribution/echoes_smp.png",
-      "version": "1.0.0",
+      "version": "1.0",
       "address": "mc.teamstardust.com.br",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -1832,6 +1832,23 @@
           }
         }
       ]
+    },
+    {
+      "id": "test-1.20.1",
+      "name": "test (Minecraft 1.20.1)",
+      "description": "test Running Minecraft 1.20.1",
+      "icon": null,
+      "version": "1.0.0",
+      "address": "localhost:25565",
+      "minecraftVersion": "1.20.1",
+      "discord": {
+        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      },
+      "mainServer": false,
+      "autoconnect": false,
+      "modules": []
     }
   ]
 }
